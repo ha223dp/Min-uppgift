@@ -1,0 +1,54 @@
+@charset "UTF-8";
+
+
+html{
+font-size: 20px;
+}
+#http{color: grey;}
+.Titel{
+    color: grey;
+    text-decoration: underline;
+}
+
+
+H1{color: blue;}
+h1{color: black;}
+li{color: grey;}
+p{color: #000000;}
+
+
+
+
+body {
+    color: #000000;
+    max-width: fit-content;
+    margin: 0;
+    padding: 20px;
+    font-family: 'Times New Roman', Times, serif;
+    background: url(Bakground.png) no-repeat center center fixed;
+    
+    background-size: cover;
+}
+
+
+nav {font-size: 2rem;}
+
+nav ul{
+margin: 0;
+padding: 0;
+list-style: none;
+}
+
+a {
+    transition: color 0.5s linear;
+  }
+  a:hover {
+    transition: none;
+    color: black;
+  }
+
+li{color: grey;
+font-style: normal;
+}
+
+
